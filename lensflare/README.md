@@ -18,7 +18,7 @@ X_train, y_train = load_moons_dataset()
 ```
 
 
-![png](lensflare_api_example_files/lensflare_api_example_2_0.png)
+![png](readme_files/plot_data.png)
 
 
 
@@ -61,5 +61,4 @@ sess.close()
 
 
 
-![png](lensflare_api_example_files/lensflare_api_example_4_1.png)
-
+![png](readme_files/decision_boundary.png)
