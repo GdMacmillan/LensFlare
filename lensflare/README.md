@@ -1,5 +1,5 @@
 
-# LensFlare
+![LensFlareBanner](readme_files/lensflare_banner.PNG)
 
 LensFlare is an example package I created to help myself and others better understand neural networks. A lot of the code is based off work that I did in the [Coursera deeplearning.ai course](https://www.coursera.org/specializations/deep-learning)
 
